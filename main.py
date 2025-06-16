@@ -1,3 +1,4 @@
 a=10
-X=5
+b=5
 c=a+b
+print(c)
